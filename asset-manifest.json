@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Level_01_Beg/static/css/main.c16e61ae.css",
+    "main.js": "/Level_01_Beg/static/js/main.d22fd43f.js",
+    "index.html": "/Level_01_Beg/index.html",
+    "main.c16e61ae.css.map": "/Level_01_Beg/static/css/main.c16e61ae.css.map",
+    "main.d22fd43f.js.map": "/Level_01_Beg/static/js/main.d22fd43f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c16e61ae.css",
+    "static/js/main.d22fd43f.js"
+  ]
+}
